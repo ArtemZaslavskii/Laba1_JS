@@ -1,8 +1,8 @@
-let numberVar = 42;
+let numberVar = 12345;
 let stringVar = "Hello";
 let booleanVar = true;
 let arrayVar = [1, 2, 3];
-let objectVar = {name: "John"};
+let objectVar = {name: "John Pork"};
 let nullVar = null;
 let undefinedVar;
 
